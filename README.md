@@ -129,10 +129,11 @@ The automation is built using self-hosted n8n (via Docker):
 
    * Logs the transcript or extracted intent into a database for recordkeeping
 
-### Video Workflow Demo
+### Workflow Screenshot
 
-Upload your workflow video to GitHub or a cloud link (e.g., Google Drive or Loom).
-You can embed or link it in this README for demonstration.
+![WhatsApp Image 2025-06-26 at 17 46 36_68e59bd5](https://github.com/user-attachments/assets/49c40605-9bc7-4a30-a434-9425cd930011)
+![WhatsApp Image 2025-06-26 at 17 46 36_68e59bd5](https://github.com/user-attachments/assets/49c40605-9bc7-4a30-a434-9425cd930011)
+
 
 ---
 
