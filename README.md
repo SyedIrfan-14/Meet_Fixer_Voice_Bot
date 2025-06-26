@@ -132,7 +132,7 @@ The automation is built using self-hosted n8n (via Docker):
 ### Workflow Screenshot
 
 ![WhatsApp Image 2025-06-26 at 17 46 36_68e59bd5](https://github.com/user-attachments/assets/49c40605-9bc7-4a30-a434-9425cd930011)
-![WhatsApp Image 2025-06-26 at 17 46 36_68e59bd5](https://github.com/user-attachments/assets/49c40605-9bc7-4a30-a434-9425cd930011)
+
 
 
 ---
